@@ -1,2 +1,6 @@
-test_model
+test_model/images
+test_model/lightning_logs
+test_model/annotations
+test_model/annotations.tar.gz
+test_model/images.tar.gz
 lightning_logs
